@@ -4,7 +4,8 @@
 - 📫 How to reach me: <br><br>
 <span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/nur-kocar/'>nurkocar</a>
 
-##-🛠 Knowlegde:<br>
+
+# 🛠 Knowlegde:<br>
 ###Languages known:<br>
   ###-HTML<br>
   ###-Css<br>
