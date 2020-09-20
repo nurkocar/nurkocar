@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on some personal projects
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: <br><br>
-✨ LinkedIn: <a style='margin-left:10em' href='https://www.linkedin.com/in/nur-kocar/'>nurkocar</a>
+<span style="margin-left:20em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/nur-kocar/'>nurkocar</a>
 
 <!--
 **nurkocar/nurkocar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
