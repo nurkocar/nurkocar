@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on some personal projects
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: <br>
+- 📫 How to reach me: <br><br>
 <span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/nur-kocar/'>nurkocar</a>
 
 <!--
