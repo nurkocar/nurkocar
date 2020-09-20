@@ -6,11 +6,10 @@
 
 
 # 🛠 Knowlegde:<br>
-###Languages known:<br>
-  ###-HTML<br>
-  ###-Css<br>
-  ###-Python<br>
-  -
+## Languages known:<br>
+  -HTML<br>
+  -Css<br>
+  -Python<br>
 
 <!--
 **nurkocar/nurkocar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
