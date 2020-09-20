@@ -4,6 +4,13 @@
 - 📫 How to reach me: <br><br>
 <span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/nur-kocar/'>nurkocar</a>
 
+-🛠 Knowlegde:
+Languages known:
+  -HTML
+  -Css
+  -Python
+  -
+
 <!--
 **nurkocar/nurkocar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
