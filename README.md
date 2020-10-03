@@ -1,12 +1,13 @@
 # Hi there 👋 Nur here!
 - 🔭 I’m currently working on some personal projects
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m learning React Native!
 
 ## 🛠 Knowlegde:<br>
 ### Languages known:<br>
   -HTML<br>
   -Css<br>
   -Python<br>
+  -JavaScript<br>
   
  ## 📫 How to reach me: <br>
 <span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/nur-kocar/'>nurkocar</a>
