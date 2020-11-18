@@ -1,6 +1,6 @@
 # Hi there 👋 Nur here!
 - 🔭 I’m currently working on some personal projects
-- 🌱 I’m learning React Native!
+- 🌱 I’m learning React!
 
 ## 🛠 Knowlegde:<br>
 ### Languages known:<br>
@@ -8,6 +8,8 @@
   -Css<br>
   -Python<br>
   -JavaScript<br>
+  -React Native<br>
+  
   
  ## 📫 How to reach me: <br>
 <span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/nur-kocar/'>nurkocar</a>
