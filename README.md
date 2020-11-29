@@ -1,6 +1,5 @@
-# Hi there 👋 Nur here!
+# Hi there 👋 Nur here! Loves developing..
 - 🔭 I’m currently working on some personal projects
-- 🌱 I’m learning React!
 
 ## 🛠 Knowlegde:<br>
 ### Languages known:<br>
@@ -9,6 +8,7 @@
   -Python<br>
   -JavaScript<br>
   -React Native<br>
+  -React<br>
   
   
  ## 📫 How to reach me: <br>
