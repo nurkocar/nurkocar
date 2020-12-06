@@ -1,5 +1,5 @@
 # Hi there 👋 Nur here! Loves developing..
-- 🔭 I’m currently working on some personal projects
+- 🔭 I’m currently working on some personal and company based projects
 
 ## 🛠 Knowlegde:<br>
 ### Languages known:<br>
