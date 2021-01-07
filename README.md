@@ -9,6 +9,9 @@
   -JavaScript<br>
   -React Native<br>
   -React<br>
+  -NodeJs<br>
+  -MongoDB<br>
+  -Django<br>
   
   
  ## 📫 How to reach me: <br>
