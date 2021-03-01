@@ -1,5 +1,3 @@
-<img src="animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurkocar" alt="nurkocar" /> </p>
 
 # Hi there 👋 Nur here! Loves developing..
