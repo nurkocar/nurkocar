@@ -1,10 +1,12 @@
+<img src="https://github-readme-stats.vercel.app/api?username=nurkocar&show_icons=true&theme=tokyonight" align='right' width="55%">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurkocar" alt="nurkocar" /> </p>
 
 # Hi there 👋 Nur here! Loves developing..
-- 🔭 I’m currently working on some personal and company based projects
+- 🔭 I’m currently working on some personal projects.
 
-## 🛠 Knowlegde:<br>
-### Languages known:<br>
+## 🛠 Skills:<br>
+
   -HTML5<br>
   -Css3<br>
   -Python<br>
