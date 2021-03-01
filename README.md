@@ -6,6 +6,8 @@
 # Hi there 👋 Nur here! Loves developing..
 
 - 🔭 I’m currently working on some personal projects.
+- 👯 I’m looking to collaborate on open source projects
+
 
 ## 🛠 Skills:<br>
 
@@ -23,6 +25,9 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-kocar/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fatmanurkocar61)
+
+<br>
+- 💬 If you require any further information, please feel free to contact me.
 
 
 
