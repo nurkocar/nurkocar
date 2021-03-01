@@ -5,19 +5,22 @@
 
 ## 🛠 Knowlegde:<br>
 ### Languages known:<br>
-  -HTML<br>
-  -Css<br>
+  -HTML5<br>
+  -Css3<br>
   -Python<br>
   -JavaScript<br>
   -React Native<br>
   -React<br>
+  -Django<br>
   -NodeJs<br>
   -MongoDB<br>
-  -Django<br>
+  
   
   
  ## 📫 How to reach me: <br>
-<span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/nur-kocar/'>nurkocar</a>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-kocar/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fatmanurkocar61)
+<!-- <span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/nur-kocar/'>nurkocar</a> -->
 
 <!--
 **nurkocar/nurkocar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
