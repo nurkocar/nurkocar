@@ -6,7 +6,7 @@
 # Hi there 👋 Nur here! Loves developing..
 
 - 🔭 I’m currently working on some personal projects.
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking forward to collaborate on open source projects
 
 
 ## 🛠 Skills:<br>
