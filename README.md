@@ -20,6 +20,8 @@
 -Django<br>
 -NodeJs<br>
 -MongoDB<br>
+-Gatsby<br>
+-Sanity<br>
 
 ## 📫 How to reach me: <br>
 
